@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/bin/dexedLibs/nineoldandroids-2.4.0-08f9dd04758257a4545b15af53df6b4a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/bin/dexedLibs/support-v4-19.0.1-c1ab2cd0231da19dc5775ad9253d4e8c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/bin/dexedLibs/javax.inject-1-17326d03e4a521ce8d8c6238b52c78a3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/bin/dexedLibs/google-play-services-9e05a0461b327d61c9b6096d3debda78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/bin/dexedLibs/google-play-services_lib-e6f606cdeff248bf7fe80b3c9608fe0f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/bin/dexedLibs/dagger-1.2.2-024431ed6527dc2c1b95a291c9e0642e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
